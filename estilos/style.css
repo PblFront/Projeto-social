@@ -26,3 +26,10 @@ section#phone {
     width: 310px;
     background: url(../imagens/frame-iphone.png) no-repeat;
 }
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 268px;
+    height: 472px;
+}
